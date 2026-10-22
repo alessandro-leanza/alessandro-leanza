@@ -25,7 +25,7 @@ Python · PyTorch · ROS 2 · Docker · LLM/RAG · Knowledge Graphs · Diffusion
 
 [Portfolio](https://alessandro-leanza.github.io/) ·
 [Google Scholar](https://scholar.google.com/citations?user=nwhjilQAAAAJ&hl=en) ·
-[LinkedIn](https://www.linkedin.com/in/alessandro-leanza/)## Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/alessandro-leanza/)
 
 <!--
 **alessandro-leanza/alessandro-leanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
