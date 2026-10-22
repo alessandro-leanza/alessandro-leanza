@@ -10,8 +10,6 @@ My research includes:
 - diffusion policies and compliant manipulation;
 - adaptive human–robot interaction and wearable robotics.
 
-I am interested in research and engineering roles at the intersection of machine learning, embodied AI, and robotics.
-
 ## Selected work
 
 - **[ConceptBot](https://github.com/alessandro-leanza/ConceptBot)** — Knowledge-graph-grounded commonsense reasoning for robot task planning.
